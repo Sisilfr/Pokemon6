@@ -7,7 +7,7 @@
 # 🎮 Website Pokémon - Aplikasi Web Interaktif dengan React & Tailwind CSS
 
 Selamat datang di proyek **Website Pokémon**!  
-Proyek ini merupakan aplikasi web interaktif yang dibangun menggunakan **React** dan **Tailwind CSS**, dengan tujuan utama menyajikan informasi menarik dan informatif tentang berbagai jenis Pokémon. Melalui antarmuka yang modern dan responsif, pengguna dapat menjelajahi daftar Pokémon, melihat detail masing-masing karakter seperti gambar, tipe, dan statistik, serta menggunakan fitur pencarian untuk menemukan Pokémon favorit mereka.
+Proyek ini merupakan aplikasi web interaktif yang dibangun menggunakan **React**, dengan tujuan utama menyajikan informasi menarik dan informatif tentang berbagai jenis Pokémon. Melalui antarmuka yang modern dan responsif, pengguna dapat menjelajahi daftar Pokémon, melihat detail masing-masing karakter seperti gambar, tipe, dan statistik, serta menggunakan fitur pencarian untuk menemukan Pokémon favorit mereka.
 
 Proyek ini tidak hanya ditujukan untuk penggemar Pokémon, tetapi juga sebagai sumber belajar praktis bagi para pengembang web, khususnya yang ingin memperdalam pemahaman tentang pengembangan aplikasi frontend berbasis komponen, pengelolaan state di React, serta integrasi API eksternal menggunakan pendekatan yang efisien dan bersih.
 
