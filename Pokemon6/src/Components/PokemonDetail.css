@@ -1,110 +1,126 @@
 /* PokemonDetail.css */
 .pokemon-detail-container {
-  display: flex;
-  flex-direction: column;
-  padding: 16px;
-  background-color: #1e1e2e;
-  height: 100vh;
+  background-color: #1e1e2f;
+  color: white;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
 }
 
 .detail-header {
-  margin-bottom: 20px;
+  padding: 15px;
+  border-bottom: 1px solid #333;
 }
 
 .path {
-  font-size: 12px;
-  color: #aaa;
-  margin-bottom: 10px;
+  color: #5e72e4;
 }
 
 .pokemon-detail-card {
-  background-color: #2a2a3a;
-  border-radius: 10px;
-  overflow: hidden;
   padding: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
 }
 
 .pokemon-number {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  font-size: 14px;
-  color: #aaa;
+  color: #ffffff;
+  margin-bottom: 10px;
+  Left : 12px;
 }
 
 .pokemon-image-container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 16px;
+  text-align: center;
+  margin: 20px 0;
 }
 
 .pokemon-detail-image {
-  width: 100%;
-  max-width: 200px;
-  height: auto;
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin: 0 auto;
+  image-rendering: pixelated; /* Keeps pixel art crisp */
 }
 
 .pokemon-name-detail {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  width: 100%;
-  margin-bottom: 24px;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
 .pokemon-name-detail h2 {
-  font-size: 24px;
-  color: #fff;
+  font-size: 28px;
+  margin: 0;
 }
 
 .pokemon-thumbnail {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  image-rendering: pixelated; /* Keeps pixel art crisp */
 }
 
 .pokemon-stats {
-  width: 100%;
+  margin-top: 20px;
 }
 
 .stat {
-  margin-bottom: 16px;
+  margin-bottom: 15px;
 }
 
 .stat-name {
-  font-size: 12px;
-  color: #aaa;
-  margin-bottom: 4px;
+  color: #adb5bd;
+  margin-bottom: 5px;
 }
 
 .stat-value {
-  font-size: 16px;
-  margin-bottom: 8px;
+  font-size: 14px;
+  margin-bottom: 5px;
 }
 
 .stat-bar {
-  height: 6px;
-  background-color: #3a3a4a;
-  border-radius: 3px;
+  background-color: #2d2d3f;
+  height: 8px;
+  border-radius: 4px;
   overflow: hidden;
+  position: relative;
 }
 
 .stat-fill {
   height: 100%;
-  background-color: #5fe690;
-  border-radius: 3px;
+  border-radius: 4px;
+}
+
+.health-fill {
+  background-color: #2dce89;
+}
+
+.attack-fill {
+  background-color: #f5365c;
+}
+
+.defense-fill {
+  background-color: #11cdef;
 }
 
 .back-button {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 10px 20px;
-  background-color: #3a3a4a;
-  color: #fff;
-  border-radius: 5px;
+  display: block;
+  background-color: #2d3748;
+  color: white;
   text-align: center;
+  padding: 12px;
+  margin: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.back-button:hover {
+  background-color: #4a5568;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 20px;
+  color: white;
 }
