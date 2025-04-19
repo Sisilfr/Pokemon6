@@ -1,8 +1,6 @@
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Screenshot 2025-04-19 1046![Screenshot 2025-04-19 104551](https://github.com/user-attachments/assets/b2e5824a-2915-46b1-8d12-ed25f78f312e)
+12](https://github.com/user-attachments/assets/7ef66b91-4979-440a-b96a-870ad7ac84d2)
 
 # 🎮 Website Pokémon - Aplikasi Web Interaktif dengan React & Tailwind CSS
 
