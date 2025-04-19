@@ -1,45 +1,47 @@
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Screenshot 2025-04-19 1046![Screenshot 2025-04-19 104551](https://github.com/user-attachments/assets/b2e5824a-2915-46b1-8d12-ed25f78f312e)
-12](https://github.com/user-attachments/assets/7ef66b91-4979-440a-b96a-870ad7ac84d2)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 🎮 Website Pokémon - Aplikasi Web Interaktif dengan React & Tailwind CSS
 
-Selamat datang di proyek **Website Pokémon**!  
-Proyek ini merupakan aplikasi web interaktif yang dibangun menggunakan **React**, dengan tujuan utama menyajikan informasi menarik dan informatif tentang berbagai jenis Pokémon. Melalui antarmuka yang modern dan responsif, pengguna dapat menjelajahi daftar Pokémon, melihat detail masing-masing karakter seperti gambar, tipe, dan statistik, serta menggunakan fitur pencarian untuk menemukan Pokémon favorit mereka.
+Selamat datang di proyek *Website Pokémon*!  
+Proyek ini merupakan aplikasi web interaktif yang dibangun menggunakan *React*, dengan tujuan utama menyajikan informasi menarik dan informatif tentang berbagai jenis Pokémon. Melalui antarmuka yang modern dan responsif, pengguna dapat menjelajahi daftar Pokémon, melihat detail masing-masing karakter seperti gambar, tipe, dan statistik, serta menggunakan fitur pencarian untuk menemukan Pokémon favorit mereka.
 
 Proyek ini tidak hanya ditujukan untuk penggemar Pokémon, tetapi juga sebagai sumber belajar praktis bagi para pengembang web, khususnya yang ingin memperdalam pemahaman tentang pengembangan aplikasi frontend berbasis komponen, pengelolaan state di React, serta integrasi API eksternal menggunakan pendekatan yang efisien dan bersih.
 
 Dengan memanfaatkan data dari [PokeAPI](https://pokeapi.co/), aplikasi ini menghadirkan pengalaman eksplorasi yang kaya dan menyenangkan langsung dari browser Anda.
 
-![Pokemon6](https://github.com/user-attachments/assets/e8b265c8-522b-4c04-9793-9bf5665f1af7)
-![Pokemon6 1](https://github.com/user-attachments/assets/f1a905f9-9ed4-4612-9008-31392614cbce)
-![Jigglypuff](https://github.com/user-attachments/assets/172b0756-5cde-41fd-b3c5-b2378abc78b6)
+
+![Screenshot 2025-04-19 104612](https://github.com/user-attachments/assets/83f5c86f-678c-44ee-9171-09d42659214f)
+![Screenshot 2025-04-19 104551](https://github.com/user-attachments/assets/5085c0b0-2f1a-4b63-b2a6-598a6de84c89)
 
 
 
 
 ## 🧩 Fitur Aplikasi
 
-- **Daftar Pokémon**  
+- *Daftar Pokémon*  
   Menampilkan koleksi Pokémon yang tersedia untuk dijelajahi oleh pengguna.
 
-- **Halaman Detail Pokémon**  
+- *Halaman Detail Pokémon*  
   Pengguna dapat mengeklik salah satu Pokémon untuk melihat detail lengkap seperti gambar, tipe, dan statistik.
 
-- **Fitur Pencarian**  
+- *Fitur Pencarian*  
   Memudahkan pengguna dalam menemukan Pokémon tertentu melalui kolom pencarian.
 
-- **Desain Responsif**  
+- *Desain Responsif*  
   Antarmuka dirancang agar tampil optimal di berbagai ukuran layar, baik desktop maupun perangkat mobile.
 
 ---
 
 ## 🔧 Teknologi yang Digunakan
 
-- **HTML** – Digunakan untuk membangun struktur halaman web  
-- **CSS** – Memberikan gaya dan tata letak agar tampilan lebih menarik  
-- **JavaScript** – Menyediakan interaktivitas dan logika untuk pengambilan data  
-- **[PokeAPI](https://pokeapi.co/)** – API publik yang digunakan untuk mengambil data Pokémon secara real-time
+- *HTML* – Digunakan untuk membangun struktur halaman web  
+- *CSS* – Memberikan gaya dan tata letak agar tampilan lebih menarik  
+- *JavaScript* – Menyediakan interaktivitas dan logika untuk pengambilan data  
+- *[PokeAPI](https://pokeapi.co/)* – API publik yang digunakan untuk mengambil data Pokémon secara real-time
 
 ---
 
