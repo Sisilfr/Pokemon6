@@ -14,8 +14,9 @@ Proyek ini tidak hanya ditujukan untuk penggemar Pokémon, tetapi juga sebagai s
 Dengan memanfaatkan data dari [PokeAPI](https://pokeapi.co/), aplikasi ini menghadirkan pengalaman eksplorasi yang kaya dan menyenangkan langsung dari browser Anda.
 
 
-![Screenshot 2025-04-19 104612](https://github.com/user-attachments/assets/83f5c86f-678c-44ee-9171-09d42659214f)
-![Screenshot 2025-04-19 104551](https://github.com/user-attachments/assets/5085c0b0-2f1a-4b63-b2a6-598a6de84c89)
+![Screenshot 2025-04-19 104944](https://github.com/user-attachments/assets/abaeb410-9c03-4928-a6be-6222c08303fd)
+![Screenshot 2025-04-19 105008](https://github.com/user-attachments/assets/a907ab8c-fa45-4d92-b982-f4caaf4c71ac)
+
 
 
 
